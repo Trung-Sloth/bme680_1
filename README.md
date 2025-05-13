@@ -6,3 +6,11 @@ Then, build Authentication -> choose Email/Password -> add Email address
 Next, build RealTime Databasse -> choose sever -> get Realtime Database URL
 After that, click the Gear symbol in the upper left of the screen -> choose Project Settings -> you can get the Web API key, Project ID there
 
+Downloaded lib:
+  sudo apt update
+  sudo apt install python3-pip
+  
+  pip3 install adafruit-blinka
+  pip3 install adafruit-circuitpython-bme680
+  pip3 install pyrebase4
+
