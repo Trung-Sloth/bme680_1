@@ -8,7 +8,7 @@ After that, click the Gear symbol in the upper left of the screen -> choose Proj
 
 Downloaded lib:
   sudo apt update
-  sudo apt install python3-pip
+  sudo apt install python3-pip python3-smbus i2c-tools
   
   pip3 install adafruit-blinka
   pip3 install adafruit-circuitpython-bme680
