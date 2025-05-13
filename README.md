@@ -8,10 +8,9 @@ Next, build RealTime Databasse -> choose sever -> get Realtime Database URL
 After that, click the Gear symbol in the upper left of the screen -> choose Project Settings -> you can get the Web API key, Project ID there
 
 ## Downloaded lib:
-  sudo apt update
-  sudo apt install python3-pip python3-smbus i2c-tools
-  
-  pip3 install adafruit-blinka
-  pip3 install adafruit-circuitpython-bme680
-  pip3 install pyrebase4
+1. 'sudo apt update'
+2. 'sudo apt install python3-pip python3-smbus i2c-tools' 
+3. 'pip3 install adafruit-blinka'
+4. 'pip3 install adafruit-circuitpython-bme680'
+5. 'pip3 install pyrebase4'
 
